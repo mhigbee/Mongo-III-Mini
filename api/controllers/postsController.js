@@ -75,7 +75,7 @@ const addComment = (req, res) => {
           return;
         }
       });
-  };
+};
 
 
 // In this function, we need to delete the comment document
